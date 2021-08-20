@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Calculator
 {
 	void add()
@@ -11,7 +10,7 @@ class Calculator
 			int value2=obj.nextInt();
 			int c=value1+value2;
 			System.out.println("Addition is :"+c);
-			
+		
 	}
 	void sub()
 	{
